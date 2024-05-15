@@ -11,12 +11,7 @@ O MarketCalc é um App criado com Vue.js, projetado para simplificar o processo 
 <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-<style>
-.Imagen-logo {
-    display: flex;
-    gap: 5px
-}
-</style>
+
 ## Melhorias
 
 - [x]  Funcionalidade basica do sistema 
